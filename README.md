@@ -29,6 +29,8 @@ Emergente->ou seja o backlog a todo instante está sendo modificado
 Priorizado->os itens mais prioritários ficam no topo e os menos prioritários na base.
 
 *O que é POC? Em processos de implantação de sistemas, POC (prova de conceito) é uma etapa de testagem para verificar se um software atende aos requisitos da organização ou não. A partir da POC, é possível testar as ferramentas que estão sendo oferecidas pelos fornecedores.
+![image](https://user-images.githubusercontent.com/52088444/218227887-470e91a2-24c6-4749-b8dc-ccd3869ab752.png)
+
 
 O backlog do produto é inerentemente incompleto, a natureza do backlog é ser incompleta.
 
