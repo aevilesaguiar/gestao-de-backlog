@@ -41,6 +41,7 @@ Jornada do Produto(não é linear, é iterativo e os artefatos são revisatados 
 
 ![image](https://user-images.githubusercontent.com/52088444/218223518-5122f275-5dd3-451f-b2cd-2e8ea0edfef0.png)
 
+![image](https://user-images.githubusercontent.com/52088444/218226089-9c01a423-bb90-4aa4-8a3f-e93320508ac8.png)
 
 
 
